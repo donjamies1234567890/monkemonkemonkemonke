@@ -4196,7 +4196,7 @@
       "RoomId":16,
       "Name":"IsleOfLostSkulls",
       "Description":"Can your pirate crew get to the Isle, defeat its fearsome guardian, and escape with the gold?",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":3139679882,
       "ImageName":"ActivityIsle.png",
       "State":0,
       "Accessibility":1,
@@ -4220,7 +4220,7 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[116754081],
+    "CoOwners":[3139679882],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
@@ -4286,7 +4286,7 @@
       "RoomId":17,
       "Name":"Soccer",
       "Description":"Teams of three run around slamming themselves into an over-sized soccer ball. Goal!",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":3139679882,
       "ImageName":"ActivitySoccer.png",
       "State":0,"Accessibility":1,
       "SupportsLevelVoting":false,
@@ -4309,7 +4309,7 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[752633474],
+    "CoOwners":[3139679882],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
@@ -4431,7 +4431,7 @@
       "RoomId":21,
       "Name":"RecRoyaleSolos",
       "Description":"Battle it out on Frontier Island. Last person standing wins!",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":3139679882,
       "ImageName":"ActivityRecRoyale.png",
       "State":0,
       "Accessibility":1,
@@ -4455,7 +4455,7 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[752633474],
+    "CoOwners":[3139679882],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
@@ -4475,7 +4475,7 @@
       "RoomId":22,
       "Name":"Lounge",
       "Description":"A low-key lounge to chill with your friends. Great for private parties!",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":3139679882,
       "ImageName":"ActivityLounge.png",
       "State":0,
       "Accessibility":1,
@@ -4499,7 +4499,7 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[752633474],
+    "CoOwners":[3139679882],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
@@ -4557,7 +4557,7 @@
       "RoomId": 1,
       "Name": "DormRoom",
       "Description": "Your private room",
-      "CreatorPlayerId": 1,
+      "CreatorPlayerId": 3139679882,
       "ImageName": "ActivityDormRoom.png",
       "State": 0,
       "Accessibility": 1,
@@ -4581,7 +4581,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [752633474],
+    "CoOwners": [3139679882],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -4598,7 +4598,7 @@
       "RoomId":2,
       "Name":"RecCenter",
       "Description":"A social hub to meet and mingle with friends new and old.",
-      "CreatorPlayerId":752633474,
+      "CreatorPlayerId":3139679882,
       "ImageName":"ActivityRecCenter.png",
       "State":0,
       "Accessibility":1,
@@ -4622,7 +4622,7 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[752633474],
+    "CoOwners":[3139679882],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
