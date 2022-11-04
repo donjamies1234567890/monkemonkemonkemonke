@@ -3,7 +3,7 @@
     "PrefabName":"[ShareCamera]",
     "ModificationGuid":"1838fa61-de10-4e09-b24a-f5a1bc942600",
     "UnlockedLevel":1,
-    "Favorited":false
+    "Favorited":true
   },
   {
     "PrefabName":"[PaintballGun]",
@@ -93,13 +93,13 @@
     "PrefabName": "[MakerPen]",
    "ModificationGuid": "204f84a2-6ee2-45e1-9168-87f43e893e32",
    "UnlockedLevel": 1,
-   "Favorited": false
+   "Favorited": true
   },
   {
     "PrefabName": "[MakerPen]",
    "ModificationGuid": "79090a4b-e191-4788-9210-88a7bdf6d828",
    "UnlockedLevel": 1,
-   "Favorited": false
+   "Favorited": true
   },
   {
     "PrefabName": "[Longbow]",
