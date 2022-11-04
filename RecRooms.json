@@ -4563,7 +4563,7 @@
       "Accessibility": 1,
       "SupportsLevelVoting": false,
       "IsAGRoom": true,
-      "CloningAllowed": false,
+      "CloningAllowed": true,
       "SupportsScreens": true,
       "SupportsWalkVR": true,
       "SupportsTeleportVR": true
@@ -4604,7 +4604,7 @@
       "Accessibility":1,
       "SupportsLevelVoting":false,
       "IsAGRoom":true,
-      "CloningAllowed":false,
+      "CloningAllowed":true,
       "SupportsScreens":true,
       "SupportsWalkVR":true,
       "SupportsTeleportVR":true
